@@ -1,0 +1,60 @@
+# OSM Ambalaj
+
+> OSM Ambalaj; 2002'den bu yana Konya Sarayönü'nde A-Box, dip kilitli, özel kesim, tava ve viyol tipi oluklu mukavva kutu üretimi yapar.
+
+- Kuruluş: 2002
+- Adres: Kurşunlu Mah. Yeni İstanbul Cad. No:626 Sarayönü / KONYA
+- Telefon: 0332 239 19 71
+- GSM: 0533 680 91 29
+- E-posta: selim@osmambalaj.com.tr
+
+## Ürünler
+
+### Standart Kutular
+- [A-Box Kutular](https://r-fatih.github.io/osmambalaj-demo/urunler/a-box-kutular/): Taşımacılık ve depolama için dünya standartlarında en çok tercih edilen kutu modeli.
+- [Dip Kilitli Kutular](https://r-fatih.github.io/osmambalaj-demo/urunler/dip-kilitli-kutular/): Tabanı kilit sistemiyle saniyeler içinde kurulan, bant gerektirmeyen pratik kutular.
+- [İhracat Kutuları](https://r-fatih.github.io/osmambalaj-demo/urunler/ihracat-kutulari/): Uzun yol ve konteyner taşımacılığına dayanıklı, ihracat standartlarına uygun kutular.
+
+### Özel Tasarım Kutular
+- [Özel Kesim Kutular](https://r-fatih.github.io/osmambalaj-demo/urunler/ozel-kesim-kutular/): Özel ürünler için hassas kesimli kalıplar; bant gerektirmeyen kurulum tasarımları.
+- [Tava Tipi Kutular](https://r-fatih.github.io/osmambalaj-demo/urunler/tava-tipi-kutular/): Meyve-sebze, gıda ve teşhir amaçlı kullanım için açık üstlü tava tipi kutular.
+- [Viyol Tipi Kutular](https://r-fatih.github.io/osmambalaj-demo/urunler/viyol-tipi-kutular/): Hassas ürünleri tek tek koruyan, iç bölmeli (separatörlü) viyol tipi kutular.
+
+### Oluklu Mukavva Dalga Tipleri
+- [E Dalga](https://r-fatih.github.io/osmambalaj-demo/urunler/e-dalga/): Metredeki oluk sayısı fazla olduğu için çok iyi yüzey ezilme dayanımı sağlar; baskıda en iyi sonucu veren hafif dalga tipidir.
+- [B Dalga](https://r-fatih.github.io/osmambalaj-demo/urunler/b-dalga/): Oluk yüksekliği ve dalga aralığı az olan, yüzey ezilmesine dayanıklı ve baskıya uygun dalga tipi.
+- [C Dalga](https://r-fatih.github.io/osmambalaj-demo/urunler/c-dalga/): B dalgadan sonra geliştirilmiş, iyi taşıyıcı özelliğe sahip ve baskıda iyi sonuç veren dalga tipi.
+- [E+B Dalga](https://r-fatih.github.io/osmambalaj-demo/urunler/eb-dalga/): Bir mikro (E) ve bir ince (B) dalganın birlikte kullanıldığı, dayanımı yüksek çift dalga.
+- [B+C Dalga](https://r-fatih.github.io/osmambalaj-demo/urunler/bc-dalga/): Bir ince (B) ve bir iri (C) dalganın birleşimiyle üretilen, ağır yükler için çift dalga.
+
+## Kurumsal
+
+- [Hakkımızda](https://r-fatih.github.io/osmambalaj-demo/hakkimizda/)
+- [İletişim](https://r-fatih.github.io/osmambalaj-demo/iletisim/)
+- [Teklif Al](https://r-fatih.github.io/osmambalaj-demo/teklif-al/)
+- [KVKK Aydınlatma Metni](https://r-fatih.github.io/osmambalaj-demo/sayfa/kvkk/)
+- [Gizlilik Politikası](https://r-fatih.github.io/osmambalaj-demo/sayfa/gizlilik-politikasi/)
+
+## Sıkça Sorulan Sorular
+
+**OSM Ambalaj hangi ürünleri üretiyor?**
+A-Box, dip kilitli, özel kesim, tava tipi, viyol tipi ve ihracat kutuları üretiyoruz. Kutularımızı E, B, C ve çift dalga (E+B, B+C) oluklu mukavvadan, ürününüze uygun dalga tipiyle hazırlıyoruz.
+
+**Ürünüme özel ölçü ve baskılı kutu yapıyor musunuz?**
+Evet. Kutularımızı siparişe özel ölçüde, ürününüze ve ihtiyacınıza uygun tasarımla üretiyor; baskı imkanı sunuyoruz.
+
+**Hangi dalga tipini seçmeliyim?**
+E dalga baskı kalitesi gereken tüketim ve hediyelik ambalajlar, B dalga kalıplı kutular, C dalga taşıma kutuları için uygundur. Ağır yük ve ihracat ambalajlarında E+B veya B+C çift dalga tercih edilir. Ekibimiz ürününüze göre en doğru dalga tipini önerir.
+
+**Ürünleriniz geri dönüştürülebilir mi?**
+Evet, oluklu mukavva ürünlerimiz %100 geri dönüştürülebilir. Ham maddemizi yerli piyasadan temin ediyor, tüm üretimi kendi tesisimizde yapıyoruz.
+
+**Fabrikanız nerede?**
+Fabrikamız Kurşunlu Mah. Yeni İstanbul Cad. No:626 Sarayönü / Konya adresinde, 5.500 m² kapalı alanda faaliyet gösteriyor. 2002'den bu yana üretim yapıyoruz.
+
+**Nasıl fiyat teklifi alabilirim?**
+Sitemizdeki teklif formuna ürün tipini, yaklaşık ölçüleri ve adedi yazmanız yeterli. Dilerseniz bizi telefonla da arayabilirsiniz.
+
+
+## Other languages
+- [English](https://r-fatih.github.io/osmambalaj-demo/en/llms.txt)

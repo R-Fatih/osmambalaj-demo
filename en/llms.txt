@@ -1,0 +1,60 @@
+# OSM Ambalaj
+
+> Since 2002, OSM Ambalaj has been manufacturing A-Box, crash-lock bottom, die-cut, tray and partitioned corrugated boxes in Sarayönü, Konya, Türkiye.
+
+- Founded: 2002
+- Address: Kurşunlu Mah. Yeni İstanbul Cad. No:626 Sarayönü / Konya, Türkiye
+- Phone: 0332 239 19 71
+- GSM: 0533 680 91 29
+- E-mail: selim@osmambalaj.com.tr
+
+## Products
+
+### Standard Boxes
+- [A-Box Boxes](https://r-fatih.github.io/osmambalaj-demo/en/products/a-box-boxes/): The world's most preferred box style for shipping and storage.
+- [Crash-Lock Bottom Boxes](https://r-fatih.github.io/osmambalaj-demo/en/products/crash-lock-bottom-boxes/): Boxes with an interlocking bottom that set up in seconds without tape.
+- [Export Boxes](https://r-fatih.github.io/osmambalaj-demo/en/products/export-boxes/): Durable boxes for long-haul and container transport that meet export requirements.
+
+### Custom Design Boxes
+- [Die-Cut Boxes](https://r-fatih.github.io/osmambalaj-demo/en/products/die-cut-boxes/): Precision die-cut templates for special products; tape-free assembly designs.
+- [Tray Boxes](https://r-fatih.github.io/osmambalaj-demo/en/products/tray-boxes/): Open-top tray boxes for fruit and vegetables, food and display use.
+- [Partitioned Boxes](https://r-fatih.github.io/osmambalaj-demo/en/products/partitioned-boxes/): Boxes with internal dividers that protect delicate products one by one.
+
+### Corrugated Flute Types
+- [E Flute](https://r-fatih.github.io/osmambalaj-demo/en/products/e-flute/): With many flutes per metre it offers excellent flat crush resistance; a lightweight flute type that gives the best printing results.
+- [B Flute](https://r-fatih.github.io/osmambalaj-demo/en/products/b-flute/): A flute type with low flute height and pitch, resistant to flat crushing and suitable for printing.
+- [C Flute](https://r-fatih.github.io/osmambalaj-demo/en/products/c-flute/): Developed after B flute; a flute type with good load-bearing properties and good printing results.
+- [E+B Flute](https://r-fatih.github.io/osmambalaj-demo/en/products/eb-flute/): A high-strength double wall combining a micro (E) and a fine (B) flute.
+- [B+C Flute](https://r-fatih.github.io/osmambalaj-demo/en/products/bc-flute/): A double wall for heavy loads, combining a fine (B) and a coarse (C) flute.
+
+## Corporate
+
+- [About Us](https://r-fatih.github.io/osmambalaj-demo/en/about/)
+- [Contact](https://r-fatih.github.io/osmambalaj-demo/en/contact/)
+- [Get a Quote](https://r-fatih.github.io/osmambalaj-demo/en/quote/)
+- [Personal Data Protection Notice](https://r-fatih.github.io/osmambalaj-demo/en/page/personal-data-notice/)
+- [Privacy Policy](https://r-fatih.github.io/osmambalaj-demo/en/page/privacy-policy/)
+
+## Frequently Asked Questions
+
+**What products does OSM Ambalaj manufacture?**
+We manufacture A-Box (regular slotted), crash-lock bottom, die-cut, tray, partitioned and export boxes, made from E, B, C and double-wall (E+B, B+C) corrugated board in the flute type that suits your product.
+
+**Do you make custom-size and printed boxes?**
+Yes. We produce our boxes to order in custom sizes with a design suited to your product and needs, and printing is available.
+
+**Which flute type should I choose?**
+E flute suits consumer and gift packaging that needs print quality, B flute suits die-cut boxes and C flute suits shipping boxes. For heavy loads and export packaging, E+B or B+C double wall is preferred. Our team will recommend the right flute type for your product.
+
+**Are your products recyclable?**
+Yes, our corrugated board products are 100% recyclable. We source raw materials locally and carry out all production in our own facility.
+
+**Where is your factory?**
+Our factory is located at Kurşunlu Mah. Yeni İstanbul Cad. No:626, Sarayönü / Konya, Türkiye, with a 5,500 m² covered production area. We have been manufacturing since 2002.
+
+**How can I get a quote?**
+Simply fill in the quote form on our website with the product type, approximate dimensions and quantity. You can also call us by phone.
+
+
+## Other languages
+- [Türkçe](https://r-fatih.github.io/osmambalaj-demo/llms.txt)
